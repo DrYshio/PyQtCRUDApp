@@ -1,5 +1,5 @@
 ## PyQtCRUDApp
-##A simple CRUD application created with PyQt and MySQL
+A simple CRUD application created with PyQt and MySQL
 ###Description
 It is a simple app which allows you to add, edit, delete and view elements from a MySQL database server. Host, username and password are located in settings.py
 
