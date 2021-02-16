@@ -7,3 +7,4 @@ The interface was created using PyQt5 and is loaded from a .ui file
 ### Dependencies
 
 - Python 3.8
+- PyQt5
